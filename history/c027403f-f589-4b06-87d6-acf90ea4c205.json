@@ -1,0 +1,18 @@
+{
+  "id": "c027403f-f589-4b06-87d6-acf90ea4c205",
+  "filename": "damian-kamp-ZudmLzdQZzM-unsplash.jpg",
+  "timestamp": "2025-12-16T10:58:44.076367",
+  "result": {
+    "text": "Sch: oo oe\n:\n\npom’ *<\n\n",
+    "confidence": 63.56,
+    "word_count": 6,
+    "char_count": 23
+  },
+  "entities": {
+    "emails": [],
+    "phones": [],
+    "dates": [],
+    "amounts": [],
+    "urls": []
+  }
+}

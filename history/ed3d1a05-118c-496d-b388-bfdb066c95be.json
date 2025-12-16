@@ -1,0 +1,24 @@
+{
+  "id": "ed3d1a05-118c-496d-b388-bfdb066c95be",
+  "filename": "mongodb_credly_badges.pdf",
+  "timestamp": "2025-12-16T10:59:12.386008",
+  "result": {
+    "text": "--- Page 1 ---\nProof of Completion\n\nCongratulations to\n\nLAKSHMI VENKATA KALKI SAINATH PRAGADA\n\nFor successfully completing\n\nMongoDB Basics for Students\n\nOn Dec 09, 2025\n\nRaghu Viswanathan\n\nRaghu Viswanathan\nVP, Education, Academia, and Documentation\nMongoDB, Inc\n\nMongoDB Skill\n\nMongoDB Basics\nfor Students\n\nhttps://www.credly.com/badges/5a8e9591-b001-4f3e-b777-ee88f0c0cf4c\n\n\n\n--- Page 2 ---\nProof of Completion\n\nCongratulations to\n\nMongoDB Skill\n\nLAKSHMI VENKATA KALKI SAINATH PRAGADA\n\nFor successfully completing\n\nCRUD\n\nCRUD Operations in MongoDB Operations\n\nOn Dec 09, 2025\n\nRaghu Viswanathan\n\nRaghu Viswanathan\nVP, Education, Academia, and Documentation\nMongoDB, Inc\n\nhttps://www.credly.com/badges/d28e083b-053d-45d9-a6e2-cb57c60aa5c6\n",
+    "confidence": 90.92,
+    "word_count": 84,
+    "char_count": 740,
+    "page_count": 2
+  },
+  "entities": {
+    "emails": [],
+    "phones": [],
+    "dates": [
+      "Dec 09, 2025"
+    ],
+    "amounts": [],
+    "urls": [
+      "https://www.credly.com/badges/5a8e9591-b001-4f3e-b777-ee88f0c0cf4c",
+      "https://www.credly.com/badges/d28e083b-053d-45d9-a6e2-cb57c60aa5c6"
+    ]
+  }
+}
