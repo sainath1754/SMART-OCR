@@ -22,49 +22,6 @@
 - ⚡ **Lightning Fast** - Optimized processing pipeline
 - 🔒 **Secure** - File validation and size limits
 
-## 🖼️ Screenshots
-
-### Main Interface
-![Upload Interface](https://via.placeholder.com/800x400/667eea/ffffff?text=Upload+Interface)
-
-### Results Dashboard
-![Results](https://via.placeholder.com/800x400/764ba2/ffffff?text=Results+Dashboard)
-
-### Entity Extraction
-![Entities](https://via.placeholder.com/800x400/10b981/ffffff?text=Entity+Extraction)
-
-## 🚀 Quick Deploy (5 Minutes)
-
-### Deploy to Render.com (FREE)
-
-1. **Fork this repository**
-2. **Sign up at [Render.com](https://render.com)** (no credit card needed)
-3. **Click "New +" → "Web Service"**
-4. **Connect your GitHub repo**
-5. **Render will auto-detect configuration**
-6. **Click "Create Web Service"**
-7. **Wait 5-10 minutes for build**
-8. **Your app is live!** 🎉
-
-### Deploy to Railway.app (FREE)
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new)
-
-1. Click the button above
-2. Connect GitHub
-3. Deploy automatically
-4. Get your public URL
-
-### Deploy to Heroku (FREE Tier Available)
-
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-```bash
-# Manual Heroku deployment
-heroku create your-app-name
-git push heroku main
-```
-
 ## 💻 Local Installation
 
 ### Prerequisites
@@ -340,41 +297,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-
-## 🙏 Acknowledgments
-
-- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
-- [Flask](https://flask.palletsprojects.com/)
-- [Render.com](https://render.com) for free hosting
-- Community contributors
-
-## 📞 Support
-
-- 📧 Email: your.email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/intelliscan-ocr/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/intelliscan-ocr/discussions)
-
-## 🗺️ Roadmap
-
-- [ ] Multi-language OCR support
-- [ ] Batch processing
-- [ ] API authentication
-- [ ] PDF text layer preservation
-- [ ] Cloud storage integration
-- [ ] Real-time collaboration
-- [ ] Mobile app
-- [ ] Advanced entity types (addresses, IDs, etc.)
-
-## ⭐ Star History
-
-If this project helped you, please consider giving it a star!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/intelliscan-ocr&type=Date)](https://star-history.com/#yourusername/intelliscan-ocr&Date)
-
----
+- GitHub: [@sainath1754](https://github.com/sainath1754e)
+- LinkedIn: [sainathpragada](https://linkedin.com/in/sainathpragada)
 
 **Made with ❤️ and Python**
 
-*Deploy once, use forever. Your job is secure! 🎉*
+*Deploy once, use forever 🎉*
