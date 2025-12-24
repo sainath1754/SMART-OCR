@@ -9,7 +9,7 @@
 
 ## 🌟 Live Demo
 
-**[Try it here!](https://pragadasainath.pythonanywhere.com/)** 
+**[Try it here!](https://github.com/sainath1754)** 
 ## ✨ Features
 
 - 🎯 **High-Accuracy OCR** - Powered by Tesseract engine
